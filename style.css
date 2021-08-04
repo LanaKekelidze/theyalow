@@ -26,6 +26,13 @@
   padding: 0;
   color: white;
 }
+.bgone {
+  background-image:url(./assets/bgone.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 570px;
+  
+}
 /* header */
 header:before {
   position: absolute;
