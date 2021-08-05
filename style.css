@@ -658,6 +658,10 @@ footer .logo {
     display: block;
     min-height: auto;
   }
+  .bgone {
+    max-height: 570px;
+    height: 100%;
+}
   .section1 {
     background: white;
   }
